@@ -68,6 +68,9 @@ Execute all the cells in the notebook. The model will process an input image and
 - The model extracts facial embeddings from the user’s image using **VGG-Face**.
 - It compares these embeddings with precomputed embeddings from the celebrity database.
 - The closest match is determined using **cosine similarity**.
+![image](https://github.com/user-attachments/assets/8d27f6a0-b83e-4ce8-b6ce-185c70a8cdb6)
+![image](https://github.com/user-attachments/assets/94512378-ef03-428c-94a4-f8b79299f78d)
+
 
 ### 📌 Technologies Used
 
